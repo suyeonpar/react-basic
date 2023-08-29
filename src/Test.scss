@@ -1,0 +1,13 @@
+.nav{
+    background-color: #ddd;
+    ul{
+        li{
+            &:hover{
+                background-color: rgb(116, 116, 116);
+                a{
+                    color: #fff;
+                }
+            }
+        }
+    }
+}
